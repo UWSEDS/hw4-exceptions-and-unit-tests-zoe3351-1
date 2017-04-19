@@ -1,4 +1,4 @@
-# HW4 Exceptions and unit tests
+# HW4: Exceptions and unit tests
 In HW1, you eownload3e the data from https://data.seattle.gov/resource/4xy5-26gy.csv and put it in a data directory.
 In general, we don't keep data in github because of limitations on github storage.
 
