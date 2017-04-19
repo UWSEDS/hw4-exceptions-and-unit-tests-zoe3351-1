@@ -11,9 +11,9 @@ the data if it is present locally.
 
 The grading rubric is:
 
-- Correctly implement get_data (1 pt)
+- Correctly implement get_data with an exception if the URL does not exist. (Hint: Try downloading the file using urllib3 instead of wget. (2 pt)
 - Correctly implement remove_data (1 pt)
-- Correctly implement tests for get_data (2 pt)
+- Correctly implement tests for get_data (1 pt)
 - Correctly implement tests for remove_data (1 pt)
 
 Tests should be in a separate file from the functions get_data and remove_data.
