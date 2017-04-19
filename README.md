@@ -1,5 +1,5 @@
 # HW4: Exceptions and unit tests
-In HW1, you eownload3e the data from https://data.seattle.gov/resource/4xy5-26gy.csv and put it in a data directory.
+In HW1, you downloaded the data from https://data.seattle.gov/resource/4xy5-26gy.csv and put it in a data directory.
 In general, we don't keep data in github because of limitations on github storage.
 
 In this homework, you will develop a function and related tests to manage downloaded data. You will use
